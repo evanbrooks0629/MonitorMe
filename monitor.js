@@ -10,8 +10,8 @@ const monitorMe = async () => {
     const monitors = parseMonitors();
     const sites = parseSites();
     let price = 0;
-    const token = "ODI1NTQ1MjU5MDY0NDkyMDMz.YF_e7w.h_4SiIRrs8ezxwoPO9p_HZThkck";
-    const channelID = "820422259323699203";
+    const token = "token";
+    const channelID = "channel id";
     const client = new Discord.Client();
     client.login(token);
     client.once('ready', async () => {
