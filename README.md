@@ -1,4 +1,5 @@
 # MonitorMe
+A web app I created in a solo hackathon that solves the problem of buying hard-to-get products through various online retailers
 
 ## Inspiration
 I had been interested in the monitoring of products online since the start of covid when certain items would randomly drop in price only to get quickly snagged by customers. If only there was a way to help know when those products would drop in price...I knew what I had to do.
